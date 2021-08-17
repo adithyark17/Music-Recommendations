@@ -85,9 +85,9 @@ export default function App() {
                 key={music.title}
                 style={{
                   padding: "1rem",
-                  margin: "1rem ",
+                  margin: "2rem ",
                   border: "1px solid",
-                  borderRadius: "1rem"
+                  borderRadius: "0.75rem"
                 }}
               >
                 <div style={{ fontSize: "larger", margin: "0.5rem" }}>
